@@ -197,14 +197,10 @@ The paper identifies several directions for further research:
 
 ## Paper
 
-The full research paper is included in this repository as `Research Paper.pdf` (update this filename if the uploaded paper has a different name in your GitHub repository).
+The full research paper is included in this repository as `Research Paper.pdf`.
 
 **Title:** *A Hybrid Unsupervised Learning Framework for Multi-Type Anomaly Detection in Database Query Logs*  
 **Authors:** Prithu Verma and Niranjan Lal
-
-## License
-
-No license is specified here. Add a license file and update this section if you intend to grant others permission to use, modify, and distribute the code.
 
 ## Acknowledgements
 
